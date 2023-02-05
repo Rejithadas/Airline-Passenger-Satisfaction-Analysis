@@ -3,8 +3,8 @@
 Customer satisfaction scores from 120,000+ airline passengers, including additional information about each passenger, their flight, and type of travel, and their evaluation of different factors like cleanliness, comfort, service, and overall experience.
 
 In this project, I used SQL to extract, manipulate, and analyze airline passenger satisfaction data. The goal was to provide airlines with valuable information that would help enhance their services and increase passenger satisfaction levels.
-# KEY INSIGHTS
-## MAVEN AIRLINE OVERVIEW
+# KEY INSIGHTS - [Data Analysis SQL](https://github.com/Rejithadas/Airline-Passenger-Satisfaction-Analysis/blob/main/Airline%20Passenger%20Satisfaction.sql)
+## [MAVEN AIRLINE OVERVIEW](https://github.com/Rejithadas/Airline-Passenger-Satisfaction-Analysis/blob/main/Maven%20Airline%20Satisfaction.pdf)
 - A total of 129880 passengers were surveyed, including 63981 men and 65899 women.
 - The flight traveled 1190.32 miles on average, with average arrival and departure delays of 15.9 minutes and 14.71 minutes, respectively.
 - The overall rating for the airline service from the customers is 3.24.
