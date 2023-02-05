@@ -43,4 +43,4 @@ In this project, I used SQL to extract, manipulate, and analyze airline passenge
 - A deeper analysis reveals that services involving online activities, such as In-flight Wi-Fi services and Ease of online booking and Online boarding, receive lower ratings from Young adults. Meanwhile, services such as Leg room services and Baggage Handling receive lower ratings from Middle-aged passengers.
 # RECOMMENDATION
 - It is important for Maven Airline to address the areas where younger passengers are less satisfied in order to improve overall passenger satisfaction.
-
+[Data Visualization](https://www.novypro.com/project/airline-passenger-satisfaction-1)
